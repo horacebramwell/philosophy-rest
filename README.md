@@ -20,9 +20,6 @@ You can check out the live demo of the project [here](https://philosophy.rest).
 
 ![Main Page](https://philosophy.rest/screenshot.png)
 
-### Quote List
-
-![Quote List](https://github.com/horacebramwell/philosophy-rest/blob/main/data/data.json)
 
 ## Getting Started
 

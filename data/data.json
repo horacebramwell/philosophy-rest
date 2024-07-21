@@ -1,0 +1,954 @@
+{
+  "philosophers": [
+    {
+      "name": "John Locke",
+      "quotes": [
+        {
+          "text": "No man's knowledge here can go beyond his experience.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "The mind is furnished with ideas by experience alone.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "Government has no other end, but the preservation of property.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "All wealth is the product of labor.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "Education begins the gentleman, but reading, good company and reflection must finish him.",
+          "school": "Empiricism"
+        }
+      ]
+    },
+    {
+      "name": "René Descartes",
+      "quotes": [
+        {
+          "text": "I think, therefore I am.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "The preservation of health should be the first study of one who is of any worth to oneself.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "To live without philosophizing is in truth the same as keeping the eyes closed without attempting to open them.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "The reading of all good books is like a conversation with the finest minds of past centuries.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "It is not enough to possess a good mind; the most important is to apply it correctly.",
+          "school": "Rationalism"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Paul Sartre",
+      "quotes": [
+        {
+          "text": "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "Existence precedes essence.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "Hell is other people.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "Freedom is what you do with what's been done to you.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "One is still what one is going to cease to be and already what one is going to become.",
+          "school": "Existentialism"
+        }
+      ]
+    },
+    {
+      "name": "John Stuart Mill",
+      "quotes": [
+        {
+          "text": "The greatest happiness of the greatest number is the foundation of morals and legislation.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "A person may cause evil to others not only by his actions but by his inaction, and in either case he is justly accountable to them for the injury.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "He who knows only his own side of the case knows little of that.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "Over himself, over his own body and mind, the individual is sovereign.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.",
+          "school": "Utilitarianism"
+        }
+      ]
+    },
+    {
+      "name": "William James",
+      "quotes": [
+        {
+          "text": "The greatest discovery of any generation is that a human can alter his life by altering his attitude.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "Act as if what you do makes a difference. It does.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "The art of being wise is the art of knowing what to overlook.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "Belief creates the actual fact.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "A great many people think they are thinking when they are merely rearranging their prejudices.",
+          "school": "Pragmatism"
+        }
+      ]
+    },
+    {
+      "name": "Edmund Husserl",
+      "quotes": [
+        {
+          "text": "We must go back to the 'things themselves'.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Pure phenomenology claims to be the science of pure phenomena.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Consciousness is always consciousness of something.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Experience by itself is not science.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Philosophy as a rigorous science, this is the point of all my endeavors.",
+          "school": "Phenomenology"
+        }
+      ]
+    },
+    {
+      "name": "Michel Foucault",
+      "quotes": [
+        {
+          "text": "Knowledge is not for knowing: knowledge is for cutting.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "Where there is power, there is resistance.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "People know what they do; frequently they know why they do what they do; but what they don't know is what what they do does.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "Freedom of conscience entails more dangers than authority and despotism.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "Power is not an institution, and not a structure; neither is it a certain strength we are endowed with; it is the name that one attributes to a complex strategical situation in a particular society.",
+          "school": "Post-Structuralism"
+        }
+      ]
+    },
+    {
+      "name": "Karl Marx",
+      "quotes": [
+        {
+          "text": "The philosophers have only interpreted the world, in various ways. The point, however, is to change it.",
+          "school": "Marxism"
+        },
+        {
+          "text": "The history of all hitherto existing society is the history of class struggles.",
+          "school": "Marxism"
+        },
+        {
+          "text": "Religion is the opium of the masses.",
+          "school": "Marxism"
+        },
+        {
+          "text": "Workers of the world unite; you have nothing to lose but your chains.",
+          "school": "Marxism"
+        },
+        {
+          "text": "From each according to his abilities, to each according to his needs.",
+          "school": "Marxism"
+        }
+      ]
+    },
+    {
+      "name": "Seneca",
+      "quotes": [
+        {
+          "text": "It is not the man who has too little, but the man who craves more, that is poor.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "Sometimes even to live is an act of courage.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "Luck is what happens when preparation meets opportunity.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "Begin at once to live, and count each separate day as a separate life.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "We suffer more often in imagination than in reality.",
+          "school": "Stoicism"
+        }
+      ]
+    },
+    {
+      "name": "Epicurus",
+      "quotes": [
+        {
+          "text": "Do not spoil what you have by desiring what you have not.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "The art of living well and the art of dying well are one.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "He who is not satisfied with a little, is satisfied with nothing.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "It is impossible to live a pleasant life without living wisely and well and justly, and it is impossible to live wisely and well and justly without living a pleasant life.",
+          "school": "Epicureanism"
+        }
+      ]
+    },
+    {
+      "name": "Aristotle",
+      "quotes": [
+        {
+          "text": "The aim of the wise is not to secure pleasure, but to avoid pain.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "Knowing yourself is the beginning of all wisdom.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "The more you know, the more you realize you don't know.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "Happiness depends upon ourselves.",
+          "school": "Virtue Ethics"
+        }
+      ]
+    },
+    {
+      "name": "Immanuel Kant",
+      "quotes": [
+        {
+          "text": "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Two things awe me most, the starry sky above me and the moral law within me.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Science is organized knowledge. Wisdom is organized life.",
+          "school": "Deontology"
+        },
+        {
+          "text": "In law a man is guilty when he violates the rights of others. In ethics he is guilty if he only thinks of doing so.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Experience without theory is blind, but theory without experience is mere intellectual play.",
+          "school": "Deontology"
+        }
+      ]
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "quotes": [
+        {
+          "text": "God is dead! He remains dead! And we have killed him.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "He who has a why to live can bear almost any how.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "That which does not kill us makes us stronger.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "There are no facts, only interpretations.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "To live is to suffer, to survive is to find some meaning in the suffering.",
+          "school": "Nihilism"
+        }
+      ]
+    },
+    {
+      "name": "Ludwig Wittgenstein",
+      "quotes": [
+        {
+          "text": "The limits of my language mean the limits of my world.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "Whereof one cannot speak, thereof one must be silent.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "Philosophy is a battle against the bewitchment of our intelligence by means of language.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "A serious and good philosophical work could be written consisting entirely of jokes.",
+          "school": "Analytic Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Simone de Beauvoir",
+      "quotes": [
+        {
+          "text": "One is not born, but rather becomes, a woman.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "All oppression creates a state of war.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "Change your life today. Don't gamble on the future, act now, without delay.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "The most mediocre of males feels himself a demigod as compared with women.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "To catch a husband is an art; to hold him is a job.",
+          "school": "Feminist Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Arne Næss",
+      "quotes": [
+        {
+          "text": "The frontier mentality sees wilderness as a place to be conquered.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "Simple in means, rich in ends.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "The Earth does not belong to us: we belong to the Earth.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "The good of the non-human world is independent of the human.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "Live well and simply.",
+          "school": "Environmental Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Confucius",
+      "quotes": [
+        {
+          "text": "It does not matter how slowly you go as long as you do not stop.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "Real knowledge is to know the extent of one's ignorance.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "The superior man is modest in his speech, but exceeds in his actions.",
+          "school": "Eastern Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Jean-François Lyotard",
+      "quotes": [
+        {
+          "text": "Simplifying to the extreme, I define postmodern as incredulity towards metanarratives.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "Postmodern knowledge is not simply a tool of the authorities; it refines our sensitivity to differences and reinforces our ability to tolerate the incommensurable.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "Knowledge is and will be produced in order to be sold.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "Eclecticism is the degree zero of contemporary general culture: you listen to reggae, you watch a western, you eat McDonald's food for lunch and local cuisine for dinner, you wear Paris perfume in Tokyo and dress retro in Hong Kong.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "A self does not amount to much, but no self is an island; each exists in a fabric of relations that is now more complex and mobile than ever before.",
+          "school": "Postmodernism"
+        }
+      ]
+    },
+    {
+      "name": "Francis Bacon",
+      "quotes": [
+        {
+          "text": "Knowledge is power.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "The best part of beauty is that which no picture can express.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "A wise man will make more opportunities than he finds.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "He that will not apply new remedies must expect new evils; for time is the greatest innovator.",
+          "school": "Empiricism"
+        },
+        {
+          "text": "Nature, to be commanded, must be obeyed.",
+          "school": "Empiricism"
+        }
+      ]
+    },
+    {
+      "name": "René Descartes",
+      "quotes": [
+        {
+          "text": "The preservation of health should be the first study of one who is of any worth to oneself.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "To live without philosophizing is in truth the same as keeping the eyes closed without attempting to open them.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "It is not enough to possess a good mind; the most important is to apply it correctly.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.",
+          "school": "Rationalism"
+        },
+        {
+          "text": "The first precept was never to accept a thing as true until I knew it as such without a single doubt.",
+          "school": "Rationalism"
+        }
+      ]
+    },
+    {
+      "name": "Albert Camus",
+      "quotes": [
+        {
+          "text": "The struggle itself... is enough to fill a man's heart. One must imagine Sisyphus happy.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "Freedom is nothing but a chance to be better.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "I rebel; therefore I exist.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "Man is the only creature who refuses to be what he is.",
+          "school": "Existentialism"
+        },
+        {
+          "text": "There is no love of life without despair about life.",
+          "school": "Existentialism"
+        }
+      ]
+    },
+    {
+      "name": "Henry Sidgwick",
+      "quotes": [
+        {
+          "text": "The right action is that which is calculated to produce the greatest happiness.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "The greatest happiness of the greatest number is the foundation of morals and legislation.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "The only certain thing about the future is that it will be different.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "It is better to be a human being dissatisfied than a pig satisfied.",
+          "school": "Utilitarianism"
+        },
+        {
+          "text": "Ethics is the attempt to decide how one should act in various situations.",
+          "school": "Utilitarianism"
+        }
+      ]
+    },
+    {
+      "name": "Richard Rorty",
+      "quotes": [
+        {
+          "text": "Truth is what your peers let you get away with.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "The aim of education is not knowledge but action.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "Philosophy is the conversation of mankind.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "We need to invent new forms of solidarity and new vocabularies.",
+          "school": "Pragmatism"
+        },
+        {
+          "text": "It is better to be a human being dissatisfied than a pig satisfied.",
+          "school": "Pragmatism"
+        }
+      ]
+    },
+    {
+      "name": "Max Scheler",
+      "quotes": [
+        {
+          "text": "The feeling of value is the highest reality.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Values are not only things which are relative to our ends but are also things which are related to our being.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "The reality of values is not dependent on the subjective values we give them.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "Feeling is the origin of all our knowledge of values.",
+          "school": "Phenomenology"
+        },
+        {
+          "text": "The value of something is always relative to a given end.",
+          "school": "Phenomenology"
+        }
+      ]
+    },
+    {
+      "name": "Louis Althusser",
+      "quotes": [
+        {
+          "text": "Ideology represents the imaginary relationship of individuals to their real conditions of existence.",
+          "school": "Structuralism"
+        },
+        {
+          "text": "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness.",
+          "school": "Structuralism"
+        },
+        {
+          "text": "Philosophy is a class struggle in theory.",
+          "school": "Structuralism"
+        },
+        {
+          "text": "Ideology has no history, but the history of ideology is the history of how ideology changes.",
+          "school": "Structuralism"
+        },
+        {
+          "text": "Science is always a mode of ideology.",
+          "school": "Structuralism"
+        }
+      ]
+    },
+    {
+      "name": "Gilles Deleuze",
+      "quotes": [
+        {
+          "text": "There is no need to fear or hope, but only to look for new weapons.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "The only way to deal with the reality of the world is to become a world in oneself.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "The concept of the body without organs is a way to get beyond the structures that imprison us.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "To create is to resist, to resist is to create.",
+          "school": "Post-Structuralism"
+        },
+        {
+          "text": "What is important is to be capable of a continuous transformation.",
+          "school": "Post-Structuralism"
+        }
+      ]
+    },
+    {
+      "name": "Antonio Gramsci",
+      "quotes": [
+        {
+          "text": "The old world is dying, and the new world struggles to be born: now is the time of monsters.",
+          "school": "Marxism"
+        },
+        {
+          "text": "The challenge of modernity is to live without illusions and without becoming disillusioned.",
+          "school": "Marxism"
+        },
+        {
+          "text": "The social structure is the product of the interactions of individuals and social groups.",
+          "school": "Marxism"
+        },
+        {
+          "text": "Every intellectual, every worker, has the responsibility to contribute to the construction of a collective consciousness.",
+          "school": "Marxism"
+        },
+        {
+          "text": "The structure of society and the human consciousness are inextricably linked.",
+          "school": "Marxism"
+        }
+      ]
+    },
+    {
+      "name": "Zeno of Citium",
+      "quotes": [
+        {
+          "text": "Happiness is a good flow of life.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "Well-being is attained through the cultivation of virtue.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "Wealth consists not in having great possessions, but in having few wants.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "The goal of life is living in agreement with nature.",
+          "school": "Stoicism"
+        },
+        {
+          "text": "No man is free who is not master of himself.",
+          "school": "Stoicism"
+        }
+      ]
+    },
+    {
+      "name": "Lucretius",
+      "quotes": [
+        {
+          "text": "Nothing is more miserable than to be free in a world full of chains.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "The world was not made for us; we are made for the world.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "The fear of gods is the most important source of human suffering.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "Pleasure is the beginning and the end of living happily.",
+          "school": "Epicureanism"
+        },
+        {
+          "text": "In life, we seek tranquility and pleasure and avoid pain.",
+          "school": "Epicureanism"
+        }
+      ]
+    },
+    {
+      "name": "Philippa Foot",
+      "quotes": [
+        {
+          "text": "Moral virtues are traits of character that are acquired by training.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "A virtue is a trait of character that is good for anyone to have.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "Ethical judgments are not merely expressions of personal preferences.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "Virtues are character traits that make us good people.",
+          "school": "Virtue Ethics"
+        },
+        {
+          "text": "The good life is one that is lived according to virtues.",
+          "school": "Virtue Ethics"
+        }
+      ]
+    },
+    {
+      "name": "W.D. Ross",
+      "quotes": [
+        {
+          "text": "The right action is the one that fulfills one's duty.",
+          "school": "Deontology"
+        },
+        {
+          "text": "The good is that which fulfills one's duty in a particular situation.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Ethics involves the balancing of conflicting duties.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Moral obligations are self-evident and must be followed.",
+          "school": "Deontology"
+        },
+        {
+          "text": "Moral principles are not always clear-cut but require careful consideration.",
+          "school": "Deontology"
+        }
+      ]
+    },
+    {
+      "name": "Ivan Turgenev",
+      "quotes": [
+        {
+          "text": "The great thing in this world is not so much where we stand, as in what direction we are moving.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "We live only a few years, and the only thing that matters is what we do with them.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "Man is what he believes.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "The only meaning in life is the one we create for ourselves.",
+          "school": "Nihilism"
+        },
+        {
+          "text": "The more we know, the less we know.",
+          "school": "Nihilism"
+        }
+      ]
+    },
+    {
+      "name": "Alfred Tarski",
+      "quotes": [
+        {
+          "text": "Truth is the accordance of thought with reality.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "A statement is true if and only if it corresponds to the facts.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "Logical concepts are central to the development of all sciences.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "The concept of truth is fundamental to the philosophy of language.",
+          "school": "Analytic Philosophy"
+        },
+        {
+          "text": "Logical and mathematical analysis can clarify philosophical problems.",
+          "school": "Analytic Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Theodor Adorno",
+      "quotes": [
+        {
+          "text": "The whole is the false.",
+          "school": "Continental Philosophy"
+        },
+        {
+          "text": "Freedom is always freedom from something.",
+          "school": "Continental Philosophy"
+        },
+        {
+          "text": "Culture is the ultimate expression of human life and thought.",
+          "school": "Continental Philosophy"
+        },
+        {
+          "text": "To think is to contradict.",
+          "school": "Continental Philosophy"
+        },
+        {
+          "text": "The most advanced forms of thought are often the most deceptive.",
+          "school": "Continental Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Mary Wollstonecraft",
+      "quotes": [
+        {
+          "text": "I do not wish them [women] to have power over men; but over themselves.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "The divine right of husbands, like the divine right of kings, may, it is to be hoped,, in time, be as obsolete as the one is now.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "I am not a feminist because I do not wish to be a man.",
+          "school": "Feminist Philosophy"
+        },
+        {
+          "text": "Women need to be educated to learn to think for themselves.",
+          "school": "Feminist Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Aldo Leopold",
+      "quotes": [
+        {
+          "text": "The land ethic simply enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "The time is coming when we shall have to recognize that we are all members of a single community, and that we have no right to do anything that will endanger the future of the community.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "The most radical thing you can do is to be a simple, unassuming person.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "We abuse land because we are bound by the social and economic system to do so.",
+          "school": "Environmental Philosophy"
+        },
+        {
+          "text": "To keep every cog and wheel is the first precaution of intelligent tinkering.",
+          "school": "Environmental Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Laozi",
+      "quotes": [
+        {
+          "text": "A journey of a thousand miles begins with a single step.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "When I let go of what I am, I become what I might be.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "Those who know do not speak. Those who speak do not know.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "The Tao that can be told is not the eternal Tao.",
+          "school": "Eastern Philosophy"
+        },
+        {
+          "text": "Nature does not hurry, yet everything is accomplished.",
+          "school": "Eastern Philosophy"
+        }
+      ]
+    },
+    {
+      "name": "Jean Baudrillard",
+      "quotes": [
+        {
+          "text": "We live in a world where there is more and more information, and less and less meaning.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "In the age of simulation, all that is solid melts into air.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "The real is not only what can be reproduced, but that which is always already reproduced.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "The hyperreal is the real, no longer mediated by representation but by simulation.",
+          "school": "Postmodernism"
+        },
+        {
+          "text": "Everything that was directly lived has moved away into a representation.",
+          "school": "Postmodernism"
+        }
+      ]
+    }
+  ]
+}

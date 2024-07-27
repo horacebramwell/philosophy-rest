@@ -18,7 +18,7 @@ You can check out the live demo of the project [here](https://philosophy.rest).
 
 ### Main Page
 
-![Main Page](https://philosophy.rest/screenshot.png)
+![https://philosophy.rest/screenshot.png](https://github.com/horacebramwell/philosophy-rest/blob/main/public/screenshot.png?raw=true)
 
 
 ## Getting Started
